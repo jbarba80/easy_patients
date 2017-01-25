@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Actividad_Android</string>
+    <string name="bienvenido">Easy Patients</string>
+    <string name="nombres">Juan Barba Fernandez</string>
+    <string name="nombres2">Fidel Bueno Jurado</string>
+    <string name="label_btnentrar">Entrar</string>
+    <string name="label_btnVolver">Volver</string>
+    <string name="nombre">Nombre</string>
+    <string name="telefono">Telefono</string>
+    <string name="acercaDe">Acerca de...</string>
+    <string name="tipo_paciente">Tipo Paciente</string>
+    <string name="dni">Dni</string>
+    <string name="error">error</string>
+    <string name="usuario">Usuario</string>
+    <string name="password">Contraseña</string>
+</resources>

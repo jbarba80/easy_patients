@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ListadoPacientes">
+    <item
+        android:id="@+id/acercaDe"
+        android:title="Acerca de..."
+        android:icon="@drawable/acercade"
+        app:showAsAction="always"
+        />
+</menu>
